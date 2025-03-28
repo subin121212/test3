@@ -1,2 +1,2 @@
 # turkey site
-[GitHub 링크](https://github.com)
+[turkey site](subin121212.github.io/test3/)
